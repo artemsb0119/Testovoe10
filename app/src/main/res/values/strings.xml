@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Testovoe10</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="repeat_password">REPEAT PASSWORD</string>
+    <string name="begin">BEGIN</string>
+    <string name="balance">BALANCE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="history">HISTORY</string>
+    <string name="notifications">NOTIFICATIONS</string>
+</resources>
